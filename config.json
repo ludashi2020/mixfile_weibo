@@ -1,0 +1,6 @@
+{
+  "cookie": "改成你自己的微博Cookies",
+  "image_path": "image.gif",
+  "referer": "https://weibo.com/",
+  "port": 5001
+}
